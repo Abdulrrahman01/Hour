@@ -384,7 +384,7 @@ nav h3:hover{
     .footer{
         padding-top: var(--top-padding);
         padding-bottom: var(--bottom-padding);
-        background-image: url(images/books-blog-uc-davis.jpg);
+        background-image: url(../images/books-blog-uc-davis.jpg);
         background-size: cover;
         position: relative;
         height: max-content;
